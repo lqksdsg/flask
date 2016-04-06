@@ -471,7 +471,7 @@ The most useful commands are the "run" and "shell" command.
 
 Example usage:
 
-  flask --app=hello --debug run
+  flask --app=hello --debug
 """)
 
 
